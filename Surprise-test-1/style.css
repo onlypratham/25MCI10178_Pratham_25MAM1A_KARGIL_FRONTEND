@@ -1,0 +1,8 @@
+.completed {
+  text-decoration: line-through;
+  color: gray;
+}
+
+.overdue {
+  border: 2px solid red;
+}
